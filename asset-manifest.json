@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.ba5fa643.css",
+    "main.js": "/myPortfolio/static/js/main.c8ff023e.js",
+    "static/media/resturant-img.jpg": "/myPortfolio/static/media/resturant-img.9094eacd6c587a8f0fce.jpg",
+    "static/media/memoryGame.jpg": "/myPortfolio/static/media/memoryGame.51e5e876688ce71ff4c9.jpg",
+    "static/media/e-commerce.jpg": "/myPortfolio/static/media/e-commerce.9b6378474e2d05fc75cb.jpg",
+    "static/media/noteTaker.jpg": "/myPortfolio/static/media/noteTaker.31a9e7c8e4c72ad338a0.jpg",
+    "static/media/numberGusser.jpg": "/myPortfolio/static/media/numberGusser.0b15cd8c34dc93ff6c0a.jpg",
+    "static/media/background-img.jpg": "/myPortfolio/static/media/background-img.412f933938217e355688.jpg",
+    "static/media/myPhoto.jpg": "/myPortfolio/static/media/myPhoto.3d2a80c240f01eee24d1.jpg",
+    "index.html": "/myPortfolio/index.html",
+    "main.ba5fa643.css.map": "/myPortfolio/static/css/main.ba5fa643.css.map",
+    "main.c8ff023e.js.map": "/myPortfolio/static/js/main.c8ff023e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5fa643.css",
+    "static/js/main.c8ff023e.js"
+  ]
+}
