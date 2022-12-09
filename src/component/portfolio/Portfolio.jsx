@@ -12,7 +12,7 @@ const data = [
     id: 1,
     image: IMG1,
     github: 'https://github.com/nuru11/lastRestu.git',
-    goLive: 'restaurant-two-chi.vercel.app',
+    goLive: 'https://restaurant-nuru11.vercel.app/',
     name: 'React-js Restaurant',
     tools: 'React js',
   },
@@ -28,7 +28,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    github: 'https://github.com/nuru11/memoryGame.git',
+    github: 'https://github.com/nuru11/Node-js-Store-app',
     goLive: 'https://nuru11.github.io/memoryGame/',
     name: 'Node-js E-commerce App',
     tools: 'Node-js Express Mongodb',
