@@ -35,7 +35,7 @@ const About = () => {
        </div>
 
         <p>
-        Hey, I’m a developer with experience in building websites for small and medium sized businesses, and help for develop a big project, if you looking for someone who build you personal, E-commerce or any kind of website and develop an existing web, leave a message even if you cant pay for it, feel free to message and know my free services.
+        Hi I'm Nuru Ibrahim and i passionate about all things programming. i work hard, i care about writing clean code and i genuinely love to learn. i'm currently looking for the right opportunity to work in an enviroment that will help me progress into a full-stack role.
         </p>
 
         <a href='#contact' className='btn btn-primary'>lets talk</a>
