@@ -81,10 +81,10 @@ const Portfolio = () => {
                 <li className="portfolio-li-tools">{tools}</li>
               </ul>
               <div className="portfolio__item-cta">
-                <a href={github} target="_blank" className="btn">
+                <a href={github} target="_blank" className="btn" rel="noopener noreferrer">
                   Gthub
                 </a>
-                <a href={goLive} className="btn btn-primary" target="_blank">
+                <a href={goLive} className="btn btn-primary" target="_blank" rel="noopener noreferrer">
                   Live Demo
                 </a>
               </div>
