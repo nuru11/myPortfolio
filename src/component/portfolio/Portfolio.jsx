@@ -3,11 +3,19 @@ import './portfolio.css';
 import IMG1 from '../../assets/resturant-img.jpg';
 import IMG2 from '../../assets/e-commerce.jpg';
 import IMG3 from '../../assets/nodejs-ecommerce.jpg';
-import IMG4 from '../../assets/memoryGame.jpg';
+import IMG4 from '../../assets/next-js-ecommerce.jpg';
 import IMG5 from '../../assets/calculator.png';
 import IMG6 from '../../assets/noteTaker.jpg';
 
 const data = [
+  {
+    id: 4,
+    image: IMG4,
+    github: 'https://github.com/nuru11/NextJs-Restaurant-App',
+    goLive: 'https://next-js-restaurant-app-zeta.vercel.app/',
+    name: 'Next-js E-commerce App',
+    tools: 'Next-js,React-js,Redux-toolkit,Typescript,Mongodb,jest,React-Testing-Library',
+  },
   {
     id: 1,
     image: IMG1,
@@ -34,14 +42,7 @@ const data = [
     tools: 'Node-js Express Mongodb',
   },
 
-  {
-    id: 4,
-    image: IMG4,
-    github: 'https://github.com/nuru11/memoryGame.git',
-    goLive: 'https://nuru11.github.io/memoryGame/',
-    name: 'memory Game',
-    tools: 'Html Css Javascript',
-  },
+ 
 
   {
     id: 5,

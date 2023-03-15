@@ -37,7 +37,7 @@ e.target.reset()
     <article className="contact__option">
     <BiMessageDots className='contact__option-icon' />
     <h4>Whattsap</h4>
-    <h5>+251967247262</h5>
+    <h5>+251-966202667</h5>
     <a href="https://api.whatsapp.com/send?phone=0966202667" >message me</a>
     </article>
 
@@ -45,7 +45,7 @@ e.target.reset()
     <BiMessageDots className='contact__option-icon' />
     <h4>Telegram</h4>
     <h5>nuru ibrahim</h5>
-    <h6>+251967247262</h6>
+    <h6>+251-966202667</h6>
     <a href="mailto:nuruibrahim11111@gmail.com" >message me</a>
     </article>
 

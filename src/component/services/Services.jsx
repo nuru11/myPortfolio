@@ -41,7 +41,7 @@ const Services = () => {
 
             <li>
                <BsCheck className="service__list-icon" />
-               <p>you can buy already exist page.</p>
+               <p>you also can buy already built page.</p>
             </li>
 
             <li>
