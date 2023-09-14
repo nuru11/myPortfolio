@@ -46,7 +46,7 @@ const Services = () => {
 
             <li>
                <BsCheck className="service__list-icon" />
-               <p>give advics.</p>
+               <p>Consultant</p>
             </li>
           </ul>
         </article>
