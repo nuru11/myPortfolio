@@ -4,8 +4,8 @@ import IMG1 from '../../assets/resturant-img.jpg';
 import IMG2 from '../../assets/e-commerce.jpg';
 import IMG3 from '../../assets/nodejs-ecommerce.jpg';
 import IMG4 from '../../assets/next-js-ecommerce.jpg';
-import IMG5 from '../../assets/calculator.png';
-import IMG6 from '../../assets/noteTaker.jpg';
+//import IMG5 from '../../assets/calculator.png';
+//import IMG6 from '../../assets/noteTaker.jpg';
 
 const data = [
   {
@@ -44,23 +44,8 @@ const data = [
 
  
 
-  {
-    id: 5,
-    image: IMG5,
-    github: 'https://github.com/nuru11/calculator.git',
-    goLive: 'https://nuru11.github.io/calculator/',
-    name: 'calculator',
-    tools: 'Html Css Javascript',
-  },
-
-  {
-    id: 6,
-    image: IMG6,
-    github: 'https://github.com/nuru11/noteTaker.git',
-    goLive: 'https://nuru11.github.io/noteTaker/',
-    name: 'note taker',
-    tools: 'Html Css Javascript',
-  },
+  
+  
 ];
 
 const Portfolio = () => {
