@@ -41,7 +41,7 @@ const data = [
     id: 4,
     image: IMG4,
     
-    goLive: 'https://node-js-e-commerce-app.onrender.com',
+    goLive: 'https://gumigayorealestate.com.et/',
     name: 'Real Estate Website',
     tools: 'wordpress',
   },
@@ -51,7 +51,7 @@ const data = [
     id: 5,
     image: IMG5,
    
-    goLive: 'https://node-js-e-commerce-app.onrender.com',
+    goLive: 'http://etazabhotel.com.et/',
     name: 'Hotel Website',
     tools: 'wordpress',
   },
