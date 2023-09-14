@@ -15,7 +15,7 @@ const About = () => {
       <div className='container about__container'>
         <div className="about__me">
           <div className='about__me-image'>
-            <img src={MY} alt="about image" />
+            <img src={MY} alt="about me" />
           </div>
         </div>
       
@@ -25,7 +25,7 @@ const About = () => {
 
 
         
-        <a href='https://github.com/nuru11?tab=repositories' target="_blank">
+        <a href='https://github.com/nuru11?tab=repositories' rel="noreferrer" target="_blank">
           <article className='about__card'>
             <VscFolderLibrary className='about__icon' />
             <h5>Projects</h5>
@@ -35,7 +35,7 @@ const About = () => {
        </div>
 
         <p>
-        Hi I'm Nuru Ibrahim and i passionate about all things programming. i work hard, i care about writing clean code and i genuinely love to learn. i'm currently looking for the right opportunity to work in an enviroment that will help me progress into a full-stack role.
+        I am an experienced software engineer with a strong background in designing, developing, and maintaining high-quality software systems. I specialize in crafting efficient and scalable solutions tailored to meet your specific requirements. Throughout the software development lifecycle, I excel in problem-solving, architecture design, and implementing best practices. I have a deep understanding of various programming languages, frameworks, and methodologies, allowing me to choose the most suitable tools for your project. Let's work together to drive your business forward and create seamless user experiences.
         </p>
 
         <a href='#contact' className='btn btn-primary'>lets talk</a>

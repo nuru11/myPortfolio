@@ -1,30 +1,25 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/resturant-img.jpg';
+
+
+import IMG1 from '../../assets/next-js-ecommerce.jpg';
 import IMG2 from '../../assets/e-commerce.jpg';
 import IMG3 from '../../assets/nodejs-ecommerce.jpg';
-import IMG4 from '../../assets/next-js-ecommerce.jpg';
-//import IMG5 from '../../assets/calculator.png';
-//import IMG6 from '../../assets/noteTaker.jpg';
+import IMG4 from '../../assets/real-estate.jpg';
+import IMG5 from '../../assets/hotel.jpg';
+//import IMG1 from '../../assets/resturant-img.jpg';
+//import { FaGithub } from 'react-icons/fa';
 
 const data = [
   {
-    id: 4,
-    image: IMG4,
-    github: 'https://github.com/nuru11/NextJs-Restaurant-App',
-    goLive: 'https://next-js-restaurant-app-zeta.vercel.app/',
-    name: 'Next-js E-commerce App',
-    tools: 'Next-js,React-js,Redux-toolkit,Typescript,Mongodb,jest,React-Testing-Library',
-  },
-  {
     id: 1,
     image: IMG1,
-    github: 'https://github.com/nuru11/lastRestu.git',
-    goLive: 'https://restaurant-nuru11.vercel.app/',
-    name: 'React-js Restaurant',
-    tools: 'React js',
+    github: 'https://github.com/nuru11/NextJs-Restaurant-App',
+    goLive: 'https://next-js-restaurant-app-zeta.vercel.app/',
+    name: 'Next-js Restaurant Web',
+    tools: 'Next-js,React-js,Redux-toolkit,Typescript,Mongodb,jest,React-Testing-Library',
   },
-
+  
   {
     id: 2,
     image: IMG2,
@@ -42,6 +37,24 @@ const data = [
     tools: 'Node-js Express Mongodb',
   },
 
+  {
+    id: 4,
+    image: IMG4,
+    
+    goLive: 'https://node-js-e-commerce-app.onrender.com',
+    name: 'Real Estate Website',
+    tools: 'wordpress',
+  },
+
+
+  {
+    id: 5,
+    image: IMG5,
+   
+    goLive: 'https://node-js-e-commerce-app.onrender.com',
+    name: 'Hotel Website',
+    tools: 'wordpress',
+  },
  
 
   
@@ -66,9 +79,9 @@ const Portfolio = () => {
                 <li className="portfolio-li-tools">{tools}</li>
               </ul>
               <div className="portfolio__item-cta">
-                <a href={github} target="_blank" className="btn" rel="noopener noreferrer">
-                  Gthub
-                </a>
+                {tools === "wordpress" ? "" : <a href={github} target="_blank" className="btn" rel="noopener noreferrer">
+                  FaGithub
+                </a>}
                 <a href={goLive} className="btn btn-primary" target="_blank" rel="noopener noreferrer">
                   Live Demo
                 </a>
