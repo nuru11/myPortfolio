@@ -3,7 +3,7 @@ import "./header.css"
 import CTA from "./CTA.jsx"
 
 import HeaderSocial from "./headerSocial"
-import MY from "../../assets/myPhoto.jpg"
+import MY from "../../assets/myphoto2.jpeg"
 
 const Header = () => {
   return (

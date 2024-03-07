@@ -1,6 +1,6 @@
 import React from 'react'
 import "./about.css"
-import MY from "../../assets/myPhoto.jpg"
+import MY from "../../assets/myphoto2.jpeg"
 import {VscFolderLibrary} from "react-icons/vsc"
 
 import "./about.css"
