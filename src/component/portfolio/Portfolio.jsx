@@ -12,7 +12,7 @@ import IMG3 from '../../assets/hulumTicket.webp';
 
 import IMG4 from '../../assets/next-js-ecommerce.jpg';
 import IMG5 from '../../assets/agmasphoto.png';
-import IMG6 from '../../assets/ethioSpare.png';
+import IMG6 from '../../assets/homeland.png';
 //import IMG1 from '../../assets/resturant-img.jpg';
 //import { FaGithub } from 'react-icons/fa';
 
