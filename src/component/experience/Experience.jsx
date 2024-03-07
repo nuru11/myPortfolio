@@ -1,7 +1,7 @@
 import React from 'react'
 import "./experience.css"
 import {BsPatchCheckFill} from "react-icons/bs"
-import {AiOutlineReload} from "react-icons/ai"
+//import {AiOutlineReload} from "react-icons/ai"
 
 const Experience = () => {
   return (
@@ -79,7 +79,35 @@ const Experience = () => {
                {/*  <small className="text-light">Experience</small>*/}
               </div>
             </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h5>Flutter</h5>
+               {/*  <small className="text-light">Experience</small>*/}
+              </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h5>React Native</h5>
+               {/*  <small className="text-light">Experience</small>*/}
+              </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h5>Wordpress/Woocommerce</h5>
+               {/*  <small className="text-light">Experience</small>*/}
+              </div>
+            </article>
+            
+
           </div>
+
+          
         </div>
 
         <div className="experience__backend">
@@ -130,6 +158,22 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
               <h5>MONGODB</h5>
+              {/*  <small className="text-light">Experience</small>*/}
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h5>Php/Laravel</h5>
+              {/*  <small className="text-light">Experience</small>*/}
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h5>MySql</h5>
               {/*  <small className="text-light">Experience</small>*/}
               </div>
             </article>

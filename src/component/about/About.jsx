@@ -35,8 +35,15 @@ const About = () => {
        </div>
 
         <p>
-        I am an experienced software engineer with a strong background in designing, developing, and maintaining high-quality software systems. I specialize in crafting efficient and scalable solutions tailored to meet your specific requirements. Throughout the software development lifecycle, I excel in problem-solving, architecture design, and implementing best practices. I have a deep understanding of various programming languages, frameworks, and methodologies, allowing me to choose the most suitable tools for your project. Let's work together to drive your business forward and create seamless user experiences.
-        </p>
+        Are you a business owner looking to take your digital presence to the next level? Look no further! I'm a freelance software developer with a wealth of experience in the industry.
+
+Having worked in a software company, I've gained valuable expertise as a software developer. I have successfully delivered a range of projects, including ecommerce and booking system mobile apps, real estate ERPs, and WordPress and WooCommerce projects. My diverse portfolio showcases my ability to tackle various software development challenges.
+
+But that's not all. I'm also passionate about sharing my knowledge and helping businesses thrive in the digital world. I've written insightful blog posts on topics like achieving success in the digital landscape and resolving technical issues. I invite you to explore my blog, where you'll find practical tips and strategies that can propel your business forward.
+
+In addition to delivering top-notch software development solutions, I believe in going above and beyond for my clients. That's why I offer complimentary services such as SEO optimization, speed optimization, and social media consultancy. Furthermore, I provide exclusive discounts for mobile app development, ensuring that your investment is both cost-effective and impactful.
+
+Now, let me ask you: Are you ready to take your business to new heights? By choosing me as your freelance software developer, you're not only getting technical expertise but also a partner dedicated to your success. Let's work together to overcome your business challenges and achieve remarkable results        </p>
 
         <a href='#contact' className='btn btn-primary'>lets talk</a>
         </div>
