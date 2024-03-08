@@ -21,8 +21,9 @@ const About = () => {
       
 
       <div className='about__content'>
-        <div className='about__cards'>
 
+        <div className='about__cards'>
+ 
 
         
         <a href='https://github.com/nuru11?tab=repositories' rel="noreferrer" target="_blank">
