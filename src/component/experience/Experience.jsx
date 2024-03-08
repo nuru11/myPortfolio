@@ -99,7 +99,23 @@ const Experience = () => {
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h5>Wordpress/Woocommerce</h5>
+              <h5>Wordpress</h5>
+               {/*  <small className="text-light">Experience</small>*/}
+              </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h5>Woocommerce</h5>
+               {/*  <small className="text-light">Experience</small>*/}
+              </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h5>Shopify</h5>
                {/*  <small className="text-light">Experience</small>*/}
               </div>
             </article>
